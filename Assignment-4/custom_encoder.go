@@ -1,6 +1,6 @@
 /*
 Tool:				Custom Encoder
-Encoding Scheme:	XOR with 0xaa -> Increment by 1 -> NOT -> XOR with 0xaa
+Encoding Scheme:		XOR with 0xaa -> Increment by 1 -> NOT -> XOR with 0xaa
 Author:				Mohit Suyal (@mosunit)
 Student ID:			PA-16521
 Blog:				https://mosunit.com
